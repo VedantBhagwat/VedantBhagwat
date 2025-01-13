@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VedantBhagwat
 - 👀 I’m interested in Angular
 - 🌱 I’m currently learning Data Science and Analytics
-- 💞️ I’m looking to collaborate on Angular 12
+- 💞️ I’m looking to collaborate on Angular 19
 - 📫 How to reach me ...
 
 <!---
